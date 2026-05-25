@@ -16,8 +16,6 @@
 5.  Calculate variance using 
   
       ![image](https://user-images.githubusercontent.com/103921593/192942852-913550a9-fabe-4a55-b956-0487b18bbd97.png)
-# Experiment :
-dhanalakshmichandru720-cell/Mean-and-Variance
 # Program :
 ```
 import numpy as np

@@ -16,15 +16,12 @@
 5.  Calculate variance using 
   
       ![image](https://user-images.githubusercontent.com/103921593/192942852-913550a9-fabe-4a55-b956-0487b18bbd97.png)
-
-
 # Experiment :
 dhanalakshmichandru720-cell/Mean-and-Variance
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
 
 # Program :
 ```
-
 import numpy as np
 L = [int(i) for i in input("Enter arrival data: ").split()]
 N = len(L)
@@ -54,6 +51,7 @@ print(f"The Standard deviation of arrival from feeder is {SD:.3f}")
 ```
 # Output :
 <img width="517" height="315" alt="image" src="https://github.com/user-attachments/assets/8b49e3ed-1ad3-45a2-aefa-f46181eb99fe" />
+
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
 
